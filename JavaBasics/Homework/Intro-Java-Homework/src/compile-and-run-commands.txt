@@ -1,0 +1,3 @@
+cd ~/IdeaProjects/Intro-Java-Homework/src/
+javac ~/IdeaProjects/Intro-Java-Homework/src/SumTwoNumbers.java
+java SumTwoNumbers
